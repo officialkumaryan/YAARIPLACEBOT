@@ -1,6 +1,6 @@
 # DEVIL
 
-DEPLOY HERE - [DEVIL](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FYAARIPLACEBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FYAARIPLACEBOT)
+DEPLOY HERE - [YAARIPLACEBOT](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FYAARIPLACEBOT&template=https%3A%2F%2Fgithub.com%2Flegendx22%2FYAARIPLACEBOT)
 [.](https://heroku.com/deploy)
 Credits - [DEVIL](https://t.me/YAARIPLACE)
 
