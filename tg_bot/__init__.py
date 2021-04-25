@@ -4,6 +4,8 @@ import sys
 import time
 import telegram.ext as tg
 
+StartTime = time.time()
+
 
 # enable logging
 logging.basicConfig(
