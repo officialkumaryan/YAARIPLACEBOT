@@ -3,13 +3,7 @@ import os
 import sys
 import time
 import telegram.ext as tg
-try:
-  os.system("pip install -U DEVIl")
-  from DEVIL import id
-except:
-  os.system("pip install DEVIL")
-  from DEVIL import id
-StartTime = time.time()
+
 
 # enable logging
 logging.basicConfig(
