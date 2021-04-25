@@ -1,6 +1,6 @@
 # DEVIL
 
-DEPLOY HERE - [YAARIPLACEBOT]([Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fofficialkumaryan%2FYAARIPLACEBOT)
+DEPLOY HERE - [YAARIPLACEBOT](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fofficialkumaryan%2FYAARIPLACEBOT)
 [.](https://heroku.com/deploy)
 Credits - [DEVIL](https://t.me/YAARIPLACE)
 
